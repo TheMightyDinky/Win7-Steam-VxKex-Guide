@@ -1,4 +1,4 @@
-# Steam-VxKex-Guide
+# Wanna game, my bros?
 **For the Windows 7 Community who strives to use steam on their OS!
 Let's get straight to work!**
 
