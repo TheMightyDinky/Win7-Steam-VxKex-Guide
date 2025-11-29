@@ -17,8 +17,8 @@ Link: https://drive.google.com/file/d/1pkqT407jOzQ9_3I9w-ILPKry7SLf54hh/view?usp
 `Step 4:` "steam.exe" has been renamed to "steam_vxkex.exe"; apply VxKex to both "steam_vxkex.exe" and "steamwebhelper.exe (bin/cef/cef.win7x64/steamwebhelper.exe)"
 Open the Properties dialog, and select the VxKex tab for each executable.
 
-**Compatibility mode** - Enable VxKex for this program, report a different version of Windows (Windows 10)
-**Advanced options** - Disable VxKex for child processes
+- **Compatibility mode**: Enable VxKex for this program, report a different version of Windows (Windows 10)
+- **Advanced options**: Disable VxKex for child processes
 
 `Step 5:` Run "steam_vxkex", and let Steam do its work.
 
