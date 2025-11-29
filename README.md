@@ -28,3 +28,5 @@ This is not what you want! What you want is to install the Game on your Windows 
 Same method as we used for `Step 4`.
 
 `Step 7:` Enjoy my bros!
+
+*Warning:* VAC may consider VxKex as cheats.. so in order to avoid a ban from Valve, please add `"-insecure"` to your **LAUNCH OPTIONS** (You will see it in Game's properties)
