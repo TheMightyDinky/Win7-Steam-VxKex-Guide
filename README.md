@@ -1,4 +1,4 @@
-# Wanna game, my bros?
+# Wanna game, my bros? (Outdated guide)
 **For the Windows 7 Community who strives to use steam on their OS!
 Let's get straight to work!**
 
