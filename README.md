@@ -25,7 +25,7 @@ Open the Properties dialog, and select the VxKex tab for each executable.
 `Step 6:` In order to play Video Games, you have to enable VxKex for them too (This is something that I haven't seen anyone mention); otherwise the game will simply crash, or if you have any device with Steam installed on it around the computer, with a video game installed that you wanna play on your Windows 7 PC, it will ask of you to stream it to your PC.
 
 This is not what you want! What you want is to install the Game on your Windows 7 Machine using Steam, and then Enable VxKex for the game too.
-Same method as we used for `Step 4`.
+Same method we used for `Step 4`.
 
 `Step 7:` Enjoy my bros!
 
